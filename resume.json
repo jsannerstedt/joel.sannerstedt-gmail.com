@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Joel Sannerstedt",
+    "label": "Software developer",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQEQjGaidj_LxA/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=R-4RRuusp37HKP2L3_IVz_vR6psGLHRs3UaD7JBI9oY",
+    "email": "joel.sannerstedt@gmail.com",
+    "phone": "+46 725 34 1337",
+    "website": "https://www.linkedin.com/in/joelsannerstedt",
+    "summary": "Innovative full stack web developer with 10+ years of experience in the field. Proficient in several technologies, including node.js, react.js, sql, and with a special passion for responsive design and frontend performance optimization.",
+    "location": {
+      "city": "Lund",
+      "countryCode": "SE"
+    },
+    "profiles": [
+      {
+        "username": "JoelSannerstedt",
+        "url": "https://twitter.com/JoelSannerstedt",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/jsannerstedt",
+        "username": "jsannerstedt",
+        "network": "github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Service Well AB",
+      "position": "Developer",
+      "website": "http://www.servicewell.se",
+      "startDate": "2018-04-01",
+      "summary": "Innovation and development of specialized services for the healthcare industry based on https://www.hl7.org/fhir",
+      "highlights": [
+        "Built an online time scheduling application for dentist customers",
+        "Developed a library for automatic rendering of all fhir resources",
+        "Created a dynamic questionnaire builder",
+        "React.js, node.js, sql server, fhir-client.js"
+      ]
+    },
+    {
+      "company": "tretton 37 AB",
+      "position": "Developer",
+      "website": "http://www.tretton37.com",
+      "startDate": "2011-12-01",
+      "endDate": "2018-04-01",
+      "summary": "We are a knowledge-based company that helps our clients achieve their goals by delivering customized & well-crafted software solutions, utilizing primarily the .NET platform with help of agile and lean development approaches.",
+      "highlights": [
+        "Mentor for frontend apprentices",
+        "Speaker in knowledge sharing activites"
+      ]
+    },
+    {
+      "company": "Avensia (contract)",
+      "position": "Developer",
+      "website": "http://www.avensia.se",
+      "startDate": "2017-01-01",
+      "endDate": "2018-04-01",
+      "summary": "Worked on the e-commerce platform for a large nordic company",
+      "highlights": [
+        "Built a library for rendering of epi server components in react",
+        "Optimized first render speed using code splitting and responsive images"
+      ]
+    },
+    {
+      "company": "Alfa Laval (contract)",
+      "position": "Developer",
+      "website": "http://www.avensia.se",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Alfa Laval needed a way to display and allow customers to search for different products.",
+      "highlights": ["Built the prototype for the Alfa Laval productguide."]
+    },
+    {
+      "company": "Sembo AB (contract)",
+      "position": "Developer",
+      "website": "http://www.sembo.se",
+      "startDate": "2015-03-01",
+      "endDate": "2015-04-31",
+      "summary": "Helped with optimizing a search page based on knockout.js"
+    },
+    {
+      "company": "Sony Mobile Communications (contract)",
+      "position": "Developer",
+      "startDate": "2013-08-01",
+      "endDate": "2014-12-31",
+      "summary": "Development of the Sony Music app for Firefox OS",
+      "highlights": [
+        "Part of a team that built a js version of Sonys android music application"
+      ]
+    },
+    {
+      "company": "Capish International AB (contract)",
+      "position": "Developer",
+      "website": "http://www.capish.com",
+      "startDate": "2012-12-01",
+      "endDate": "2013-07-01",
+      "summary": "Worked on a dynamic graphs application"
+    },
+    {
+      "company": "Labs2",
+      "position": "Developer",
+      "website": "http://www.labs2.com",
+      "startDate": "2008-05-01",
+      "endDate": "2011-12-31",
+      "summary": "Part of the team that developed BRIKKS, a business support system for managing open broadband networks",
+      "highlights": ["Test responsible"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Lunds universitet",
+      "area": "Systemvetenskap",
+      "studyType": "Bachelor",
+      "startDate": "2005-08-31",
+      "endDate": "2008-12-31"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+
+      "keywords": ["HTML", "CSS", "Javascript", "React"]
+    },
+    {
+      "name": "Backend",
+
+      "keywords": ["Node.js", "C#", "Java"]
+    },
+    {
+      "name": "Testing",
+
+      "keywords": ["TDD", "Exploratory testing", "Automated ui testing"]
+    },
+    {
+      "name": "Database",
+
+      "keywords": ["MongoDB", "Cosmos DB", "SQL Server"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Football", "Weight lifting", "Padel"]
+    }
+  ],
+  "references": []
+}
